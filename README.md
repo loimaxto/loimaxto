@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi 👋 I'm Tran Hong Quang
 
-<!--
-**loimaxto/loimaxto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps learner focusing on building hands-on skills in CI/CD, Docker, and Kubernetes.
 
-Here are some ideas to get you started:
+This GitHub repository contains documentation and projects related to my DevOps learning journey.
+(https://github.com/loimaxto/devops-cloud-journey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 DevOps Intern / Junior Developer  
+🔧 Interested in CI/CD, Docker, Kubernetes, and Cloud  
+📍 Vietnam  
+
+### 🛠️ Skills
+- CI/CD: Jenkins, GitLab CI
+- Containerization: Docker, Docker Compose
+- Orchestration: Kubernetes (Minikube, K3s)
+- Version Control: Git, GitHub
+- OS: Linux (Ubuntu)
+
+### 📌 Projects
+- CI/CD Pipeline with GitLab CI & Docker
+- Containerized Web App deployed on Kubernetes
+
+### 📫 Contact
+- Email: tranhongquang24@gmail.com
+- LinkedIn: [linkedin.com/](https://www.linkedin.com/in/tran-hong-quang-51a91019a/)
